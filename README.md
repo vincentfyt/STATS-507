@@ -11,4 +11,4 @@ For part B: We repeat the same process as part we do in part A for the ohx denti
 
 For part C: We use the unique id to merge two datasets into one and figure out the number of cases appeared in both datasets.
 
-[Local File Link] (https;//www.google.com)
+[Local File Link] (https://github.com/vincentfyt/STATS-507/blob/f08f7374a8815787ae897d58569330bc82caea03/Hw2,Question%203.ipynb)
