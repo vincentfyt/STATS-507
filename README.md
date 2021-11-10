@@ -26,6 +26,8 @@ Update on PS4 Branch: Use the revised demographic data and the oral health data 
 
 
 -Remove rows from individuals with exam_status != 2 as this form of missingness is already accounted for in the survey weights. Report the number of subjects removed and the number remaining.
+
+
 Construct a table with ohx (complete / missing) in columns and each of the following variables summarized in rows:
 -age
 -under_20
