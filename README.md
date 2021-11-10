@@ -35,3 +35,6 @@ Construct a table with ohx (complete / missing) in columns and each of the follo
 -college
 
 [Local File Link] (https://github.com/vincentfyt/STATS-507/blob/f08f7374a8815787ae897d58569330bc82caea03/Hw2,Question%203.ipynb)
+
+
+[Local File Link]（https://github.com/vincentfyt/STATS-507/blob/aac11729aa85c149832a81ec2edaf405133a7b74/homework4.ipynb)
