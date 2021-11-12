@@ -38,3 +38,8 @@ Construct a table with ohx (complete / missing) in columns and each of the follo
 
 
 [Local File Link]（https://github.com/vincentfyt/STATS-507/blob/aac11729aa85c149832a81ec2edaf405133a7b74/homework4.ipynb)
+
+
+** pandas_note** refer to the Question 2
+** ps1** refere to the Question 3(optional)
+
