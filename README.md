@@ -12,9 +12,9 @@ For part B: We repeat the same process as part we do in part A for the ohx denti
 For part C: We use the unique id to merge two datasets into one and figure out the number of cases appeared in both datasets.
 
 
-Update on PS4 Branch: Use the revised demographic data and the oral health data from PS2 to create a clean dataset with the following variables:
+**Update on PS4 Branch: Use the revised demographic data and the oral health data from PS2 to create a clean dataset with the following variables:**
 - id (from SEQN)
-- gender
+- **- gender**
 - age
 - under_20 if age < 20
 - college - with two levels:
